@@ -1,0 +1,2 @@
+rootProject.name='LADM_U2P2_OrtixLoraEnrique'
+include ':app'
